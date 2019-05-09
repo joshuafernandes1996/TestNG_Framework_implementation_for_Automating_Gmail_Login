@@ -1,6 +1,6 @@
 package loginTest;
 
 public class data {
-    public String emailid="hotstarpremiumtest";
-    public String password="joshuahotstar1@";
+    public String emailid="yourUsername";
+    public String password="yourPassword";
 }
